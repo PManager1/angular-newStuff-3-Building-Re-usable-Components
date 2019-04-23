@@ -21,7 +21,6 @@ export class CockpitComponent implements OnInit {
     //   name: this.newServerName,
     //   content: this.newServerContent
     // });
-    console.log('22- serverElements =' , serverElements );
   }
 
   onAddBlueprint() {
